@@ -1,0 +1,13 @@
+2023-12-19 17:57:55.871 [info] 
+
+
+
+
+2023-12-19 17:57:55.877 [info] Extension host agent started.
+2023-12-19 17:57:56.136 [info] [127.0.0.1][53a3ca6a][ManagementConnection] New connection established.
+2023-12-19 17:57:56.349 [info] [127.0.0.1][80aa3524][ExtensionHostConnection] New connection established.
+2023-12-19 17:57:56.416 [info] [127.0.0.1][80aa3524][ExtensionHostConnection] <7514> Launched Extension Host Process.
+2023-12-19 17:58:20.090 [info] [127.0.0.1][80aa3524][ExtensionHostConnection] <7514> [0mGET /favicon.ico [33m404[0m 1.396 ms - 150[0m
+
+2023-12-19 18:03:19.943 [info] [127.0.0.1][53a3ca6a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-19 18:03:19.991 [info] [127.0.0.1][80aa3524][ExtensionHostConnection] <7514> Extension Host Process exited with code: 0, signal: null.

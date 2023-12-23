@@ -1,0 +1,20 @@
+2023-12-19 17:22:41.049 [info] 
+
+
+
+
+2023-12-19 17:22:41.049 [info] Extension host agent started.
+2023-12-19 17:22:41.050 [info] Started initializing default profile extensions in extensions installation folder. file:///home/cesopti/.vscode-server/extensions
+2023-12-19 17:22:41.066 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/cesopti/.vscode-server/extensions
+2023-12-19 17:22:41.254 [info] [127.0.0.1][705da969][ManagementConnection] New connection established.
+2023-12-19 17:22:41.510 [info] [127.0.0.1][cc8ba235][ExtensionHostConnection] New connection established.
+2023-12-19 17:22:41.514 [info] [127.0.0.1][cc8ba235][ExtensionHostConnection] <1083> Launched Extension Host Process.
+2023-12-19 17:56:41.317 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-19 17:56:41.536 [info] Installing extension: ritwickdey.liveserver
+2023-12-19 17:56:43.170 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-12-19 17:56:45.610 [info] Extracted extension to file:///home/cesopti/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-12-19 17:56:45.623 [info] Renamed to /home/cesopti/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-12-19 17:56:45.624 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-19 17:56:45.633 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-19 17:57:04.075 [info] [127.0.0.1][705da969][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-19 17:57:04.111 [info] [127.0.0.1][cc8ba235][ExtensionHostConnection] <1083> Extension Host Process exited with code: 0, signal: null.
